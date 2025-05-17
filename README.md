@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Al-muntasar Al-amri’s GitHub Profile! 👋</h1>
+<h1 align="center">Welcome to Al-muntasar Al-amri GitHub Profile! 👋</h1>
 
 <p align="center">
   I am a passionate Full Stack Developer trainee at the Code Academy, based in Muscat, Oman 🇴🇲.
