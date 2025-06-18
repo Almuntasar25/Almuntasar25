@@ -1,15 +1,13 @@
 <h1 align="center">Welcome to Al-muntasar Al-amri GitHub Profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
 <p align="center">
-  I am a passionate Full Stack Developer trainee at the Code Academy, based in Muscat, Oman 🇴🇲.
+  I am a passionate Full Stack Developer trainee at the Code Academy.
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
 - 💻 I specialize in **Information Technology and Computing**.
-- 🎓 A proud graduate of the **Arab Open University**.
-- 📍 Based in **Muscat, Oman**.
 - 🚀 Currently training as a **Full Stack Developer** at the **Code Academy** to sharpen my development skills and build real-world projects.
 - 🧠 Always eager to learn new technologies and frameworks to improve my craft.
 - ☕ Fun Fact: Nothing beats a day of coding with a good cup of coffee!
