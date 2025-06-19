@@ -37,7 +37,8 @@
 
 ---
 
-### 📫 Connect with Me:
+### 📫 Connect with Me: 
+<a>almuntasar.x2@gmail.com</a>
 
 <!-- Uncomment and edit these lines when your links are ready -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME) -->
